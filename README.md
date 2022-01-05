@@ -1,4 +1,4 @@
-## Olá, eu sou a Carla Carvalho, desenvolvedora full stack em formação
+## Olá, eu sou a Carla Carvalho, desenvolvedora Full Stack com conhecimentos nas seguintes hard skills: HTML, CSS, Javascript, NodeJS, Express, React, NestJS, SQL e MongoDB. Também tenho habilidades na utilização de Docker, Prisma e ferramentas do Azure. Tenho fortes aspirações dentro do desenvolvimento FullStack e sigo me atualizando para que possa estar apta na atuação das demandas que forem apresentadas.
 
 <div align="center">
   <a href="https://github.com/carla-carvalho">
